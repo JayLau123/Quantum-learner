@@ -2,10 +2,13 @@
 
 Some open source and useful learning materials related to quantum science and engineering
 
+### InQuanto
 
-## Quantinuum 
+State-of-the-art chemistry platform for quantum computers
 
-https://quantinuum.webflow.io/
+### Quantum Origin 
+
+Quantum computing-enabled cryptographic keys
 
 
 ### pytket 
@@ -16,10 +19,20 @@ https://cqcl.github.io/tket/pytket/api/
 
 https://github.com/CQCL/tket
 
-### lambeq 
+### LAMBEQ：Quantum + Natural language Process
 
-An open-source, modular, extensible high-level Python library for experimental Quantum Natural Language Processing (QNLP), created by Cambridge Quantum’s QNLP team
+LAMBEQ was created to explore the structural correspondences between the matching compositional structures underpinning quantum theory, structures such as process theories and tensor networks, with formal and natural languages to design novel models for language and other cognitive phenomena. An open-source, modular, extensible high-level Python software library, enables the design and implementation of end-to-end QNLP pipelines that seamlessly integrate with Quantinuum’s platform-agnostic compiler, TKET™.
 
 https://cqcl.github.io/lambeq/
 
 https://github.com/CQCL/lambeq
+
+### TKET
+
+Quantum software development platform
+
+https://github.com/CQCL/tket
+
+
+
+
