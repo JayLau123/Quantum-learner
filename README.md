@@ -4,20 +4,24 @@ Some open source and useful learning materials related to quantum science and en
 
 ### InQuanto
 
-State-of-the-art chemistry platform for quantum computers
+State-of-the-art chemistry platform for quantum computers.
+
+https://www.quantinuum.com/computationalchemistry/inquanto
 
 ### Quantum Origin 
 
-Quantum computing-enabled cryptographic keys
+Quantum computing-enabled cryptographic keys.
+
+https://www.quantinuum.com/cybersecurity/quantumorigin
 
 
-### pytket 
+### Pytket 
 
 A python module for interfacing with tket, a quantum computing toolkit and optimising compiler developed by Quantinuum. 
 
 https://cqcl.github.io/tket/pytket/api/
 
-https://github.com/CQCL/tket
+https://github.com/CQCL/pytket
 
 ### LAMBEQ：Quantum + Natural language Process
 
